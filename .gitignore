@@ -1,0 +1,6 @@
+# Project management:
+.vscode
+.TODO*
+
+# Binaries:
+store/store
