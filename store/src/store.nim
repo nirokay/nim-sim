@@ -48,7 +48,7 @@ proc buyGood() =
         Goods[i].left -= amount
 
         if not Inventory.haskey(v.name):
-            Inventory[v.name] = amount
+            Inventory[v.name] = 0
         Inventory[v.name] += amount
         
         echo fmt"You have bought {amount} {v.name}!"
