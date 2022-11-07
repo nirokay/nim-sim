@@ -4,6 +4,10 @@ A repository of random nim projects I have done for the sake of learning the lan
 
 ## Programs
 
+### dnd
+
+Script for rolling dice for dnd.
+
 ### store
 
 A simple interactive program where you shop at a store.

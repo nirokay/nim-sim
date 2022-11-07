@@ -2,5 +2,9 @@
 .vscode
 .TODO*
 
+# Test stuff:
+*test*
+
 # Binaries:
 store/store
+dnd/dnd
