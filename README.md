@@ -4,6 +4,10 @@ A repository of random nim projects I have done for the sake of learning the lan
 
 ## Programs
 
+### blackjack
+
+Interactive blackjack game. It works and I'm super proud of it! :D
+
 ### dnd
 
 Script for rolling dice for dnd.
